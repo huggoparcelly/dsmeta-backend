@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb0e0f90-78c3-4c4e-bf12-5a9d81116ded" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2Z0TDghzUqtHBgYxqudQbccrOGZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/huggoparcelly/Developer/dsmeta-backend",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.DsmetaApplication">
+    <configuration name="DsmetaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <envs>
+        <env name="TWILIO_SID" value="ACf0f38b272b48db0fcca1c51f885c9595" />
+        <env name="TWILIO_KEY" value="01de58b9c1a8a42c01a542d2d13a7967" />
+        <env name="TWILIO_PHONE_FROM" value="+12563630623" />
+        <env name="TWILIO_PHONE_TO" value="+5500000000" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.devsuperior.dsmeta.DsmetaApplication" />
+      <module name="dsmeta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.devsuperior.dsmeta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dsmeta" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map>
+                <entry key="TWILIO_KEY" value="01de58b9c1a8a42c01a542d2d13a7967" />
+                <entry key="TWILIO_PHONE_FROM" value="+12563630623" />
+                <entry key="TWILIO_PHONE_TO" value="+5500000000" />
+                <entry key="TWILIO_SID" value="ACf0f38b272b48db0fcca1c51f885c9595" />
+              </map>
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.DsmetaApplication" />
+      <item itemvalue="Maven.dsmeta" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DsmetaApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb0e0f90-78c3-4c4e-bf12-5a9d81116ded" name="Changes" comment="" />
+      <created>1701557881260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701557881260</updated>
+    </task>
+    <servers />
+  </component>
+</project>
